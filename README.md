@@ -109,13 +109,7 @@ conda activate <env_name>
 
 + 我们默认大家使用cpu版本，如果同学具有gpu资源，可以选择对应的CUDA版本。
 
-+ 我们不需要用到torchaudio，所以不需要安装这个包
 
-最终，我们的安装命令为：
-
-```python
-conda install pytorch torchvision cpuonly -c pytorch
-```
 
 安装完成后，可以使用以下查看是否成功：
 
