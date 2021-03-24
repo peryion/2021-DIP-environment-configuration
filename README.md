@@ -93,7 +93,7 @@ conda config --set show_channel_urls yes
 conda activate <env_name>
 ```
 
-注意：我们使用的环境名称叫 base，所以命令为：conda activate base
+注意：使用的环境名称为先前创建的环境名，所以命令为：conda activate test
 
 激活后，应该为:
 
